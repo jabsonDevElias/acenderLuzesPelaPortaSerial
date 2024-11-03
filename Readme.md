@@ -1,6 +1,6 @@
 # Código em C que Verifica a Porta Serial
 
-Esse código serve para o arduino verificar chamadas na porta seria e executar ações, no caso do código e acende um led.
+Este código é projetado para o Arduino, permitindo que ele verifique chamadas na porta serial e execute ações com base nas informações recebidas. Neste caso específico, quando uma chamada é detectada, o Arduino acende um LED.
 
 ### `Status`
 
